@@ -1,0 +1,8 @@
+# kisie-create
+llama-cpp
+# file extract needed
+python-docx
+PyMuPDF
+PyPDF2
+Image
+pytesseract
